@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { AuthPage } from './pages/AuthPage';
+import { AuthPage } from './AuthPage';
 import { NetworkCheckerPage } from './pages/NetworkCheckerPage';
 
 const App: React.FC = () => {
