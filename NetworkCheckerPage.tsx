@@ -1,10 +1,10 @@
 import React, { useState, useEffect, useCallback } from 'react';
 import { GoogleGenAI, Type } from '@google/genai';
-import StatusIndicator from '../components/StatusIndicator';
+import StatusIndicator from '../StatusIndicator';
 import { 
   GlobeIcon, WifiIcon, RefreshIcon, SpeedometerIcon, DesktopComputerIcon, ShieldCheckIcon,
   CheckCircleIcon, XCircleIcon, QuestionMarkCircleIcon, ClipboardListIcon 
-} from '../components/icons';
+} from '../icons';
 
 interface NetworkCheckerPageProps {
   onLogout: () => void;
