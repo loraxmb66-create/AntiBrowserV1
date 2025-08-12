@@ -1,0 +1,5 @@
+{
+  "name": "Advanced Network & Security Tools",
+  "description": "A secure tool with user authentication to check network status, IP, speed, and run advanced security checks. Features an AI-powered domain scanner, a safe browsing mode, and a Vietnamese anti-scam URL analyzer.",
+  "requestFramePermissions": []
+}
