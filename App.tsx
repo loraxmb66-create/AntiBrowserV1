@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { AuthPage } from './AuthPage';
-import { NetworkCheckerPage } from './pages/NetworkCheckerPage';
+import { NetworkCheckerPage } from './NetworkCheckerPage';
 
 const App: React.FC = () => {
   const [isLoggedIn, setIsLoggedIn] = useState(false);
