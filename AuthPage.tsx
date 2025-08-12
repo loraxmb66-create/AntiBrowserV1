@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { MailIcon, LockClosedIcon, UserIcon } from '../components/icons';
+import { MailIcon, LockClosedIcon, UserIcon } from './/icons';
 
 interface AuthPageProps {
   onLoginSuccess: () => void;
